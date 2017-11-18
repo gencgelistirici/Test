@@ -1,0 +1,10 @@
+E:\Csharp\Craps\Craps\bin\Debug\Craps.exe.config
+E:\Csharp\Craps\Craps\bin\Debug\Craps.exe
+E:\Csharp\Craps\Craps\bin\Debug\Craps.pdb
+E:\Csharp\Craps\Craps\obj\Debug\Craps.csprojResolveAssemblyReference.cache
+E:\Csharp\Craps\Craps\obj\Debug\Craps.Properties.Resources.resources
+E:\Csharp\Craps\Craps\obj\Debug\Craps.csproj.GenerateResource.Cache
+E:\Csharp\Craps\Craps\obj\Debug\Craps.csproj.CoreCompileInputs.cache
+E:\Csharp\Craps\Craps\obj\Debug\Craps.exe
+E:\Csharp\Craps\Craps\obj\Debug\Craps.pdb
+E:\Csharp\Craps\Craps\obj\Debug\Craps.Craps.resources
